@@ -1,5 +1,3 @@
-Ecco un riassunto completo in formato Markdown dei concetti sulle eccezioni in Java presenti nel PDF:
-
 # Eccezioni in Java - Riassunto
 
 ## Concetti Fondamentali
